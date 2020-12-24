@@ -1,7 +1,7 @@
 ## Norbert Banyi's Personal Project: Patient Driven Pancreatic Cancer Data Tool
 
 ### Background
-Recently the awareness of the importance of identifying Hereditary Pancreatic Ductal Adenocarcinoma (PDAC) has
+Recently the awareness of the importance of identifying hereditary pancreatic ductal adenocarcinoma (PDAC) has
 increased the demand of genetic testing, which created challenges with the traditional genetic
 service model because of long wait time and low genetic testing uptake. In a traditional genetic
 testing streamline, PDAC patients and their kindred are referred to the Hereditary Cancer Program (HCP)
